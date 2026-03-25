@@ -1,3 +1,4 @@
-# --- Core packages ---
-google-genai>=1.26.0      # new GenAI SDK with Search grounding  
-streamlit>=1.49.0         # current Streamlit release  
+streamlit>=1.32.0
+google-genai>=1.0.0
+requests>=2.31.0
+pillow>=10.0.0
